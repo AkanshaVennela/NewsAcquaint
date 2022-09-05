@@ -37,7 +37,7 @@ Start the server
   npm run start
 ```
  
- # Features
+ ## Features
  - Fetch Real time News with Headline with a brief explanation about news along with Time & Date it was posted
  
 ![image](https://user-images.githubusercontent.com/85068589/188365473-0f59ecdf-9eda-4304-89b8-4097ae13d7ac.png)
