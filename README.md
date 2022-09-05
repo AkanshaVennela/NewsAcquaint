@@ -2,20 +2,24 @@
 In this project, we used the News API, which provides updated data for free in an attempt to bring the most relevant news with amazing features to your touch screen.
 # Tech Stack
 Frontend: ReactJS, HTML, CSS, JavaScript
+
 API: https://newsapi.org/
 
 # To Run Locally
 Clone the project
+
   git clone https://github.com/unknownuser2329/NewsAcquaint
   
 Install Dependencies
+
  npm install
  
 Start the Web-Application
+
  npm start
  
  # Features
- Fetch Real time News with Headline with a brief explanation about news along with Time & Date it     was posted
+ Fetch Real time News with Headline with a brief explanation about news along with Time & Date it was posted
 ![image](https://user-images.githubusercontent.com/85068589/188365473-0f59ecdf-9eda-4304-89b8-4097ae13d7ac.png)
 
 Browse across categories like Business, Entertainment, Health, Science, Sports, Technology.
