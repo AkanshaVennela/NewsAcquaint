@@ -4,6 +4,15 @@ In this project, we used the News API, which provides updated data for free in a
 Frontend: ReactJS, HTML, CSS, JavaScript
 
 API: https://newsapi.org/
+## Tech Stack
+
+**Client:** ReactJS, HTML, CSS, JavaScript
+
+**Server:** Node
+
+**API:** [News API]([https://linktodocumentation](https://newsapi.org/))
+
+
 
 ## Run Locally
 
