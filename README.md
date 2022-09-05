@@ -5,7 +5,7 @@ In this project, we used the News API, which provides updated data for free in a
 
 **Client:** ReactJS, HTML, CSS, JavaScript
 
-**Server:** Node
+**Server:** NodeJS
 
 **API:** [News API](https://newsapi.org/)
 
