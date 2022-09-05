@@ -5,18 +5,31 @@ Frontend: ReactJS, HTML, CSS, JavaScript
 
 API: https://newsapi.org/
 
-# To Run Locally
+## Run Locally
+
 Clone the project
 
-  git clone https://github.com/unknownuser2329/NewsAcquaint
-  
-Install Dependencies
+```bash
+  git clone  https://github.com/unknownuser2329/NewsAcquaint
+```
 
- npm install
- 
-Start the Web-Application
+Go to the project directory
 
- npm start
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
  
  # Features
  Fetch Real time News with Headline with a brief explanation about news along with Time & Date it was posted
