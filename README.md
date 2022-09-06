@@ -16,7 +16,7 @@ In this project, we used the News API, which provides updated data for free in a
 Clone the project
 
 ```bash
-  git clone  [https://github.com/unknownuser2329/NewsAcquaint](https://github.com/unknownuser2329/NewsAcquaint)
+  git clone https://github.com/unknownuser2329/NewsAcquaint
 ```
 
 Go to the project directory
